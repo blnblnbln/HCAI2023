@@ -1,4 +1,5 @@
-### CLASE JUEVES 07 SEPTIEMBRE ASTROINFORMÁTICA
+# CLASE JUEVES 07 SEPTIEMBRE ASTROINFORMÁTICA
+
 C creado en los 70 y C++ en los 80
 C++ no es un lenguaje de programación en si mismo, es una extensión de C, incluye librerías de C y además incluye las de C++, es orientado a objetos, C solito nop
 curva de aprendizaje mayor en C++
@@ -12,9 +13,9 @@ contribución al conocimiento :)
 agregar códigos , sincronizar en repositorios
 guardar problema y solución !!!!
 es común hacer el mismo error y nos evitamos el proceso de búsqueda de nuevo 
-actualizar portafolio 
+actualizar portafolio.
 
-#LENGUAJE C
+### LENGUAJE C
 javascript owo
 python está escrito en C
 datos estáticos, esta variable es entero, si lo trato como flotante, lo transformarán a entero para que esté acomodado al formato 
@@ -30,7 +31,7 @@ vim con “i” comienzo a escribir y escape me voy al modo comando
 error: no permite usar, el codigo no funciona
 el warning te avisa pero te lo compila igual.
 
-# función main necesita llave 
+### función main necesita llave 
 gcc es el compilador, a.out es el 
 void es para no ponerle return, es equivalente al none en python pero para tipos de datos 
 int necesita retorno, void no necesita retorno

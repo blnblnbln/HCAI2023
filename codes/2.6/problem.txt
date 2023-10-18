@@ -1,0 +1,9 @@
+Diseñar una simulacion de supermercado
+1) flujo de gente que compra
+2) cajas que atienden
+3) el local
+
+objetivo : 
+1) saber cuánto tiempo espera una persona en caja
+2) cuántas personas hay por caja (el máximo)
+

@@ -53,7 +53,7 @@ representación y los va adaptando a tiempo real
 
 cambiar tipo de dato al array de numpy NO SE PUEDE CAMBIAR !!! pq hecho en otro lenguaje
 
-###números flotates
+### números flotates
 
 buscar en wikipedia sobre mantisa y exponente
 
@@ -75,7 +75,7 @@ si pongo 1e50 puede ser un valor que yo si necesite y pueda trabajar entonces me
 
 en mi compu me tira todo infinito, puede depender de la capacidad de mi compilador para darse cuenta de que me podría enviar un warning
 
-###consideraciones
+### consideraciones
 - errores de redondeo
 - representación flotante determina un épsilon e de resolución, de tal manera que la operación (x+2^-e) es equivalente a X
 

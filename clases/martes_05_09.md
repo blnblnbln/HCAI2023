@@ -6,6 +6,7 @@ C++ no ocupa indentaciones, ocupa punto y coma y llave
 - cada lenguaje está asociado a paradigma de programación: 1ero: imperativo: decir al lgje instrucción x instrucción lo que quiero hacer
 en python uso imperativo pq aún no uso orientación a objetos 
 declarativo: no implemento la solución, sino las características de mi problema y lo que quiero conseguir
+
 ### orientación a objetos: ruptura en la forma que se programa por su versatilidad 
 - mi lenguaje puede ser interpretado o compilado 
 - tienen asociado un nivel de asociación, qué tan explícito debo programar dependiendo del lgje que estoy ocupando, 
@@ -41,6 +42,7 @@ porque tienen equilibrio entre abstracción y conexión con el hardware
 totalmente utilizados en la programación de alto rendimiento
 memoria dinámica y una estática: conocimiento sobre gestión de recursos
 lgje de bajo nivel es más difícil de entender, lenguaje de alto nivel es más fácil de aprender 
+
 
 ### lenguaje compilado
 código fuente es donde yo escribo mi lenguaje

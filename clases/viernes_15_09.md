@@ -1,4 +1,5 @@
-# CLASE VIERNES 15 SEPTIEMBRE ASTROINFORMÁTICA
+# CLASE VIERNES 15 SEPTIEMBRE ASTROINFORMÁTICA
+
 python: lenguaje interpretado
 
 python se instala en un lugar, es un software,

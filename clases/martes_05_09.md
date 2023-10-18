@@ -5,9 +5,10 @@ python funciona con indentaciones, saltos de línea, con 2 puntos
 C++ no ocupa indentaciones, ocupa punto y coma y llave
 - cada lenguaje está asociado a paradigma de programación: 1ero: imperativo: decir al lgje instrucción x instrucción lo que quiero hacer
 en python uso imperativo pq aún no uso orientación a objetos 
-declarativo: no implemento la solución, sino las características de mi problema y lo que quiero conseguir
+declarativo: no implemento la solución, sino las características de mi problema y lo que quiero conseguir.
 
-### orientación a objetos: ruptura en la forma que se programa por su versatilidad 
+### orientación a objetos: ruptura en la forma que se programa por su versatilidad
+ 
 - mi lenguaje puede ser interpretado o compilado 
 - tienen asociado un nivel de asociación, qué tan explícito debo programar dependiendo del lgje que estoy ocupando, 
 más alto : programo en términos de mi algoritmo, más abstracto, en bajo nivel explico todo.
@@ -41,10 +42,9 @@ medio: C y C++, medio pa alto
 porque tienen equilibrio entre abstracción y conexión con el hardware
 totalmente utilizados en la programación de alto rendimiento
 memoria dinámica y una estática: conocimiento sobre gestión de recursos
-lgje de bajo nivel es más difícil de entender, lenguaje de alto nivel es más fácil de aprender 
+lgje de bajo nivel es más difícil de entender, lenguaje de alto nivel es más fácil de aprender. 
 
-
-### lenguaje compilado
+### lenguaje compilado 
 código fuente es donde yo escribo mi lenguaje
 múltiples pasos
 2 grandes pasos: 1ero involucra traducir el código a lenguaje máquina, antes de eso debo verificar que el código entero sea consistente: léxico: no equivocarse al escribir (in y no on ekisde), sintáctico viene un ;, semántico: corresponda con el lgje
@@ -54,7 +54,7 @@ cambia el ejecutable, no cambia el código, arregla todo automáticamente, debug
 
 enlazador o linker: combina todos los archivos traducidos a lgje máquina y los combina con las librerías a usar, con eso genero ejecutable
 error de instalar un software porque no encuentra una librería
-linker tiene consideraciones que hay que tomar en cuenta
+linker tiene consideraciones que hay que tomar en cuenta.
 
 ### intérprete: python
 lee instrucción x instrucción, loop no se puede hacer?

@@ -1,5 +1,5 @@
 # Herramientas Computacionales para la Astroinformática 2023
-Este es mi repositorio para el curso HCAI dictado por el prof. Cristian Vega [https://github.com/cnvega/hcai2023]@cnvega en 2023b, orientado para estudiantes de postgrado en Astronomía, Universidad de La Serena.
+Este es mi repositorio para el curso HCAI dictado por el prof. Cristian Vega [https://github.com/cnvega/hcai2023] @cnvega en 2023b, orientado para estudiantes de postgrado en Astronomía, Universidad de La Serena.
 
 > Este repositorio será usado como portafolio.
 

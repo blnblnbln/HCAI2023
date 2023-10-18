@@ -15,14 +15,14 @@ ej: operador suma,
 habilitar suma de los números complejos
 
 Métodos especiales: Se implementan automáticamente cuando se crea una clase,
-ex. $_len_$ sirve para usar len dentro de la clase, definiéndose el uso de len() como función
+ex. _ len _ sirve para usar len dentro de la clase, definiéndose el uso de len() como función
 
-$__str__$ sirve para darle atributos especiales a la fn print,
+__ str __ sirve para darle atributos especiales a la fn print,
 genera una impresión de str de la instancia que llama al método
 
 init no necesita return, str si 
 
-$__repr__$ representación oficial del objeto, análoga a la sintaxis de creación
+__ repr __ representación oficial del objeto, análoga a la sintaxis de creación
 
 para python un operador es como una función,
 todo es un objeto y existen los objetos tipo función

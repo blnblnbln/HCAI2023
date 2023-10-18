@@ -1,4 +1,4 @@
-### CLASE JUEVES 07 SEPTIEMBRE ASTROINFORMÁTICA
+### CLASE JUEVES 07 SEPTIEMBRE ASTROINFORMÁTICA
 C creado en los 70 y C++ en los 80
 C++ no es un lenguaje de programación en si mismo, es una extensión de C, incluye librerías de C y además incluye las de C++, es orientado a objetos, C solito nop
 curva de aprendizaje mayor en C++
@@ -28,7 +28,7 @@ hay 2 tipos de comentarios, // es una línea y el /* o */ comentar varias lineas
 vim con “i” comienzo a escribir y escape me voy al modo comando
 
 error: no permite usar, el codigo no funciona
-el warning te avisa pero te lo compilo igual 
+el warning te avisa pero te lo compila igual.
 
 # función main necesita llave 
 gcc es el compilador, a.out es el 

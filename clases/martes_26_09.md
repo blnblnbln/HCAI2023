@@ -69,7 +69,7 @@ imprime variable o referencia q está afuera, no en ese scope
 el spam q se hizo arriba murió con la función,
 las clases tienen fn embedidas que son métodos 
 
-**clase es mi template para generar instancias del tipo de esa clase **
+**clase es mi template para generar instancias del tipo de esa clase**
 
 instancia: 
 cada una de esas instancias puede tener atributos embedidos dentro q permiten asignarle un estado

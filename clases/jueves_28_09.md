@@ -78,5 +78,5 @@ set_xlabel :oooo
 
 privados, para no romper nada
 
-constructor __init__
-destructor __del__
+constructor %__init__% 
+destructor %__del__%

@@ -13,5 +13,5 @@ Directorio donde se encuentran mis notas de clases en formato "*.md".
 Directorio donde se encuentran mis ejemplos/ejercicios de códigos realizados en clases, organizados según la Clase en la que fueron creados.
 
 ### Links
-https://pandao.github.io/editor.md/en.html : open source online markdown editor.
+https://pandao.github.io/editor.md/en.html : open source online markdown editor.\\
 https://www.openvim.com/ : interactive vim tutorial 

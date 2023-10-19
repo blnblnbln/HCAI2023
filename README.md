@@ -4,12 +4,14 @@ Este es mi repositorio para el curso HCAI dictado por el prof. Cristian Vega [@c
 
 > Este repositorio será usado como portafolio.
 
-### Clases
+### clases
 
 Directorio donde se encuentran mis notas de clases en formato "*.md".
 
-### Codes
+### codes
 
 Directorio donde se encuentran mis ejemplos/ejercicios de códigos realizados en clases, organizados según la Clase en la que fueron creados.
 
-
+### Links
+https://pandao.github.io/editor.md/en.html : open source online markdown editor.
+https://www.openvim.com/ : interactive vim tutorial 

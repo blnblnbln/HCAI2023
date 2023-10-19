@@ -11,4 +11,5 @@ Directorio donde se encuentran mis notas de clases en formato "*.md".
 
 Directorio donde se encuentran mis ejemplos/ejercicios de códigos realizados en clases, organizados según la Clase en la que fueron creados.
 
+[cnvega/name](https://github.com/cnvega/hcai2023)
 
